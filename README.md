@@ -1,2 +1,2 @@
 Hello this is my recipes project if you can called it that, at first i was having issue pushing my project to github, so i am going over the basics of git again wish
-me look.
+me look. So not now i am trying to do a git commit and push my code to github by using vs code terminal.
