@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-size: 36px;
+    background-color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+
+.list {
+    font-size: 26px;
+    color: blue;
+}
+
+* {
+    background-color: lightgrey;
+    font-family: "Times New Roman", serif, Verdana;
+}
