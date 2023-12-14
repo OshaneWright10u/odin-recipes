@@ -1,23 +1,55 @@
+* {
+    font-family: "Times New Roman", serif, Verdana;
+    background-color: lightgreen;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#contents {
+
+    margin: 16px;
+    padding: 1px 1px;   
+}
+
+
+
 h1 {
     text-align: center;
     font-size: 36px;
-    background-color: white;
+    background-color: darkgray;
 }
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 100px;
 }
 
-.list {
+
+ul li {
+    display: inline;
     font-size: 26px;
-    color: blue;
+    color: black;
+
 }
 
-* {
-    background-color: lightgrey;
-    font-family: "Times New Roman", serif, Verdana;
+.link1 {
+    margin-right: 120px;
+    margin-bottom: 50px;
+    border: 50px;
+}
+
+.link2 {
+    margin-right: 100px;
+}
+
+.link1,
+.link2,
+.link3 {
+    background-color: yellow;
+    padding: 15px 25px;
+    color: black;
 }

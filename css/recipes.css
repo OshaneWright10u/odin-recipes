@@ -12,11 +12,11 @@ img {
 }
 
 h1, h2 {
-    background-color: white;
+    background-color: darkgray;
 }
 
 * {
-    background-color: lightgrey;
+    background-color: lightgreen;
 }
 
 p, li, a {
